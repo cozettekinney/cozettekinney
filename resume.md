@@ -1,2 +1,3 @@
-##Cozette Kinney
-#Northeastern University, Class of 2028
+Cozette Kinney
+
+Northeastern University, Class of 2028
